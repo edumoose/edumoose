@@ -1,0 +1,2 @@
+# edumoose
+Interactive education platform
